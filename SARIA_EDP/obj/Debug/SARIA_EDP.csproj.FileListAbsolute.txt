@@ -1,0 +1,11 @@
+C:\Users\COLLEGE STUDENT.DESKTOP-9F41R3V\source\repos\SARIA_EDP\SARIA_EDP\bin\Debug\SARIA_EDP.exe.config
+C:\Users\COLLEGE STUDENT.DESKTOP-9F41R3V\source\repos\SARIA_EDP\SARIA_EDP\bin\Debug\SARIA_EDP.exe
+C:\Users\COLLEGE STUDENT.DESKTOP-9F41R3V\source\repos\SARIA_EDP\SARIA_EDP\bin\Debug\SARIA_EDP.pdb
+C:\Users\COLLEGE STUDENT.DESKTOP-9F41R3V\source\repos\SARIA_EDP\SARIA_EDP\obj\Debug\SARIA_EDP.csproj.AssemblyReference.cache
+C:\Users\COLLEGE STUDENT.DESKTOP-9F41R3V\source\repos\SARIA_EDP\SARIA_EDP\obj\Debug\SARIA_EDP.Form1.resources
+C:\Users\COLLEGE STUDENT.DESKTOP-9F41R3V\source\repos\SARIA_EDP\SARIA_EDP\obj\Debug\SARIA_EDP.frmHome.resources
+C:\Users\COLLEGE STUDENT.DESKTOP-9F41R3V\source\repos\SARIA_EDP\SARIA_EDP\obj\Debug\SARIA_EDP.Properties.Resources.resources
+C:\Users\COLLEGE STUDENT.DESKTOP-9F41R3V\source\repos\SARIA_EDP\SARIA_EDP\obj\Debug\SARIA_EDP.csproj.GenerateResource.cache
+C:\Users\COLLEGE STUDENT.DESKTOP-9F41R3V\source\repos\SARIA_EDP\SARIA_EDP\obj\Debug\SARIA_EDP.csproj.CoreCompileInputs.cache
+C:\Users\COLLEGE STUDENT.DESKTOP-9F41R3V\source\repos\SARIA_EDP\SARIA_EDP\obj\Debug\SARIA_EDP.exe
+C:\Users\COLLEGE STUDENT.DESKTOP-9F41R3V\source\repos\SARIA_EDP\SARIA_EDP\obj\Debug\SARIA_EDP.pdb
