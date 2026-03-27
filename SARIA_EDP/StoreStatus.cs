@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace SARIA_EDP
 {
-    public partial class frmHome : Form
+    public partial class StoreStatus : Form
     {
-        public frmHome()
+        public StoreStatus()
         {
             InitializeComponent();
         }

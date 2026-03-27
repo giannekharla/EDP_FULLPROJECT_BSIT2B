@@ -10,15 +10,15 @@ using System.Windows.Forms;
 
 namespace SARIA_EDP
 {
-    public partial class Form1 : Form
+    public partial class Login : Form
     {
-        public Form1()
+        public Login()
         {
             InitializeComponent();
         }
         string[,] userCredentials =
         {
-            { "admin", "admin", "gianne kharla" },
+            { "admin", "admin", "Gianne Kharla Saria" },
             { "cashier", "password", "hatdog" }
         };
 
@@ -47,7 +47,7 @@ namespace SARIA_EDP
                     {
                         if (tbPassword.Text ==userCredentials[x, 1])
                         {
-                            Form1 frm = new Form1();    
+                            Dashboard frm = new Dashboard();
                             MessageBox.Show("Welcome "+ userCredentials[x, 2]);
                             this.Hide();
                             frm.Show();

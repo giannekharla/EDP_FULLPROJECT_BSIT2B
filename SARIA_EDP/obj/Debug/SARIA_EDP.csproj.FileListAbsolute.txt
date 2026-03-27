@@ -9,3 +9,20 @@ C:\Users\COLLEGE STUDENT.DESKTOP-9F41R3V\source\repos\SARIA_EDP\SARIA_EDP\obj\De
 C:\Users\COLLEGE STUDENT.DESKTOP-9F41R3V\source\repos\SARIA_EDP\SARIA_EDP\obj\Debug\SARIA_EDP.csproj.CoreCompileInputs.cache
 C:\Users\COLLEGE STUDENT.DESKTOP-9F41R3V\source\repos\SARIA_EDP\SARIA_EDP\obj\Debug\SARIA_EDP.exe
 C:\Users\COLLEGE STUDENT.DESKTOP-9F41R3V\source\repos\SARIA_EDP\SARIA_EDP\obj\Debug\SARIA_EDP.pdb
+C:\Users\giannekharla\source\repos\SARIA_EDP\SARIA_EDP\bin\Debug\SARIA_EDP.exe.config
+C:\Users\giannekharla\source\repos\SARIA_EDP\SARIA_EDP\bin\Debug\SARIA_EDP.exe
+C:\Users\giannekharla\source\repos\SARIA_EDP\SARIA_EDP\bin\Debug\SARIA_EDP.pdb
+C:\Users\giannekharla\source\repos\SARIA_EDP\SARIA_EDP\obj\Debug\SARIA_EDP.csproj.AssemblyReference.cache
+C:\Users\giannekharla\source\repos\SARIA_EDP\SARIA_EDP\obj\Debug\SARIA_EDP.Properties.Resources.resources
+C:\Users\giannekharla\source\repos\SARIA_EDP\SARIA_EDP\obj\Debug\SARIA_EDP.csproj.GenerateResource.cache
+C:\Users\giannekharla\source\repos\SARIA_EDP\SARIA_EDP\obj\Debug\SARIA_EDP.csproj.CoreCompileInputs.cache
+C:\Users\giannekharla\source\repos\SARIA_EDP\SARIA_EDP\obj\Debug\SARIA_EDP.exe
+C:\Users\giannekharla\source\repos\SARIA_EDP\SARIA_EDP\obj\Debug\SARIA_EDP.pdb
+C:\Users\giannekharla\source\repos\SARIA_EDP\SARIA_EDP\obj\Debug\SARIA_EDP.Login.resources
+C:\Users\giannekharla\source\repos\SARIA_EDP\SARIA_EDP\obj\Debug\SARIA_EDP.Dashboard.resources
+C:\Users\giannekharla\source\repos\SARIA_EDP\SARIA_EDP\obj\Debug\SARIA_EDP.RegisterForm.resources
+C:\Users\giannekharla\source\repos\SARIA_EDP\SARIA_EDP\obj\Debug\SARIA_EDP.Pricebook.resources
+C:\Users\giannekharla\source\repos\SARIA_EDP\SARIA_EDP\obj\Debug\SARIA_EDP.StoreStatus.resources
+C:\Users\giannekharla\source\repos\SARIA_EDP\SARIA_EDP\obj\Debug\SARIA_EDP.TimeClock.resources
+C:\Users\giannekharla\source\repos\SARIA_EDP\SARIA_EDP\obj\Debug\SARIA_EDP.Users.resources
+C:\Users\giannekharla\source\repos\SARIA_EDP\SARIA_EDP\obj\Debug\SARIA_EDP.Vendors.resources
