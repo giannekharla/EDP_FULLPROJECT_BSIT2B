@@ -222,13 +222,13 @@
             this.dgvUsers.Name = "dgvUsers";
             this.dgvUsers.RowHeadersWidth = 51;
             this.dgvUsers.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.dgvUsers.Size = new System.Drawing.Size(544, 459);
+            this.dgvUsers.Size = new System.Drawing.Size(630, 459);
             this.dgvUsers.TabIndex = 19;
             // 
             // btnUpdate
             // 
             this.btnUpdate.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnUpdate.Location = new System.Drawing.Point(628, 502);
+            this.btnUpdate.Location = new System.Drawing.Point(714, 502);
             this.btnUpdate.Name = "btnUpdate";
             this.btnUpdate.Size = new System.Drawing.Size(144, 50);
             this.btnUpdate.TabIndex = 20;
@@ -239,7 +239,7 @@
             // btnDeactivate
             // 
             this.btnDeactivate.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnDeactivate.Location = new System.Drawing.Point(778, 502);
+            this.btnDeactivate.Location = new System.Drawing.Point(864, 502);
             this.btnDeactivate.Name = "btnDeactivate";
             this.btnDeactivate.Size = new System.Drawing.Size(144, 50);
             this.btnDeactivate.TabIndex = 21;
@@ -250,7 +250,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(935, 610);
+            this.ClientSize = new System.Drawing.Size(1021, 610);
             this.Controls.Add(this.btnDeactivate);
             this.Controls.Add(this.btnUpdate);
             this.Controls.Add(this.dgvUsers);
@@ -272,6 +272,7 @@
             this.Controls.Add(this.tbFname);
             this.Controls.Add(this.label1);
             this.Name = "Users";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Users";
             this.Load += new System.EventHandler(this.Users_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgvUsers)).EndInit();
